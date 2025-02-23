@@ -1,5 +1,6 @@
 #hero {
   text-align: center;
+
   & img[src*="music"] {
     width: 12.875rem;
   }
@@ -24,6 +25,7 @@
   #hero {
     background: url(../assets/bg-hero-desktop.svg) no-repeat bottom center/contain;
     padding-bottom: 15rem;
+    
     & img[src*="music"] {
       width: 25.75rem;
     }
